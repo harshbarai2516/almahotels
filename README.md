@@ -7,7 +7,7 @@ Users can explore hotels, view detailed information, save favourites, and enjoy 
 
 ## 🚀 Live Demo
 
-👉 https://your-vercel-link.vercel.app
+👉 https://almahotels.vercel.app/
 
 ---
 
@@ -43,7 +43,6 @@ src/
  ├── components/
  ├── pages/
  ├── context/
- ├── redux/
  ├── services/
  ├── App.jsx
  ├── main.jsx
