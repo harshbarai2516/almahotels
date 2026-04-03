@@ -26,9 +26,7 @@ export default function Navbar() {
                 <div className="hover:scale-105 transition duration-300">
                     <Logo />
                 </div>
-                <h1 className="text-xl font-bold text-gray-800 dark:text-white">
-                    AlmaHotels
-                </h1>
+                
 
                 {/* Desktop Menu */}
                 <div className="hidden md:flex items-center gap-6">
